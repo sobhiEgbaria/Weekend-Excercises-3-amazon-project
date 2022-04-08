@@ -1,0 +1,26 @@
+footer{
+    margin-top: 15px;
+
+}
+.footer-img ul{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.footer-img ul li{
+    list-style: none;
+    margin-top: 20px;
+}
+
+.footer-img ul img{
+    padding: 0;
+    margin: 0;
+    width: 50%;
+   
+}
+
+footer .chekbox{
+    padding: 10px 15px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
